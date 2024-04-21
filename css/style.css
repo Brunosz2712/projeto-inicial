@@ -1,0 +1,49 @@
+form{
+    border: 1px solid #808080;
+    padding: 10px;
+}
+
+button{
+    background-color: #0000ff;
+    color: #ffff;
+}
+
+.cabecalho{
+    background-color: #0000ff;   
+}
+
+div{
+    padding: 20px;
+}
+
+section{
+    line-height: 1.5;
+}
+
+nav{
+    font-weight: bold;
+}
+
+p{
+    color: #008000;
+}
+
+footer{
+    border-top: 2px solid #ff0000;
+}
+
+h2 {
+    font-family: Tahoma, Verdana, sans-serif;
+    text-align: left;
+}
+
+.titulo-pagina,
+.subtitulo{
+    font-size: 50px;
+    color: #eb5959;
+}
+
+h1{
+    font-family: Tahoma, Verdana, sans-serif;
+    text-align: center;
+}
